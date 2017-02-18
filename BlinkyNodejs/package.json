@@ -1,0 +1,9 @@
+{
+  "name": "blinky-nodejs",
+  "version": "0.0.0",
+  "description": "BlinkyNodejs",
+  "main": "server.js",
+  "author": {
+    "name": "baqwas"
+  }
+}
